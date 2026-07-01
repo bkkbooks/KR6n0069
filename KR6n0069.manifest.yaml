@@ -1,0 +1,82 @@
+canonical_identifier: bkk:krp/KR6n0069/v1
+canonical_location: https://kanripo.org/bkk/KR6n0069/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 攝論章卷第一
+  identifiers:
+    alt_id:
+    - T85n2808
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2808.xml
+    old_id: T85n2808
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0069_000.yaml, hash: 'sha256:45bc684051bb0b9c8ff8ec772a980af83d6f80638805511f6c1a6709698bde8f'}
+  - {seq: 1, filename: KR6n0069_001.yaml, hash: 'sha256:81867dac914112957749aa7346ce942c96be3b6748aaec120c64988027c55562'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6n0069_001.markers.yaml, hash: 'sha256:b873a4a2f36ea9f9b663029547395ba2cabe5874b3a8faa7b27c0d9a68ba43a3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0069_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 19131
+  label: 攝論章卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0069_T_001-mulu-1
+    span:
+    - body
+    - 6467
+    - 6467
+  label: 二障義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0069_T_001-mulu-2
+    span:
+    - body
+    - 10375
+    - 10375
+  label: 不住道義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0069_T_001-mulu-3
+    span:
+    - body
+    - 11256
+    - 11256
+  label: 三藏義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0069_T_001-mulu-4
+    span:
+    - body
+    - 16466
+    - 16466
+  label: 篇聚義
+  type: mulu
+  level: 1
+hash: sha256:336869c28b0869e58bdf76e7796f4cde5f6078c091f4cee5922dc78ccd09f2c5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

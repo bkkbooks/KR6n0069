@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0069/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 攝論章卷第一
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2808.xml
+    old_id: T85n2808
+hash: sha256:45bc684051bb0b9c8ff8ec772a980af83d6f80638805511f6c1a6709698bde8f
