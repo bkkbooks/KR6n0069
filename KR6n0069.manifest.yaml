@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6n0069/v1
 canonical_location: https://kanripo.org/bkk/KR6n0069/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 攝論章卷第一
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0069_000.yaml, hash: 'sha256:45bc684051bb0b9c8ff8ec772a980af83d6f80638805511f6c1a6709698bde8f'}
-  - {seq: 1, filename: KR6n0069_001.yaml, hash: 'sha256:24dc29f7d72d54f724bc8700588ae5deb378ee3e20c2d96294443421fe0bcdbf'}
+  - {seq: 1, filename: KR6n0069_001.yaml, hash: 'sha256:dc35474f1308caa676491047fc773655e5000d476e2001617a0774ea5c321cc7'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6n0069_000.markers.yaml, hash: 'sha256:67510da2d371ecb4fdf9df6dc010d17883f80c577c6d21c8f8bee2db3883ca87'}
-  - {seq: 1, role: markers, filename: assets/KR6n0069_001.markers.yaml, hash: 'sha256:b7a53219ea8274f4b81f588529c7c04ac1e032fc234f9d8486e21cfe8a3f1ddb'}
+  - {seq: 1, role: markers, filename: assets/KR6n0069_001.markers.yaml, hash: 'sha256:09c5ce2e492cd171bb91159eb266fb01914ca0ef8871414d8e267976a9c22b40'}
 table_of_contents:
 - ref:
     seq: 1
@@ -77,4 +77,7 @@ table_of_contents:
   label: 篇聚義
   type: mulu
   level: 1
-hash: sha256:831c43ed8dca003793f703c81e42b8cd3d5538825e3fc27e516b2f65b134505b
+hash: sha256:67edf128721d8b8fef610a974cbe2f2e393b5be652c7dc3757423acf0470724e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
